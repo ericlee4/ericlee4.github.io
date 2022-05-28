@@ -5,8 +5,8 @@
          <meta http-equiv="refresh" content="0; url=https://ericlee.dev" />
       </head>
       <body>
-         <div style="width: 500px; height: 500px; color: white; background: red">
-            Should redirects be allowed?
+         <div style="width: 500px; height: 500px; color: white; background: gray;display: flex;justify-content: center;align-items: center;">
+Click on this SVG
          </div>
       </body>
    </html>
